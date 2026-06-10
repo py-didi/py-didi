@@ -38,15 +38,6 @@
 
 ---
 
-## 📈 Моя статистика на GitHub / Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-one-beta.vercel.app/api?username=py-didi&show_icons=true&theme=radial&hide_border=true&locale=ru&count_private=true" alt="Dmitriy's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-one-beta.vercel.app/api/top-langs/?username=py-didi&layout=compact&theme=radial&hide_border=true&count_private=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ## 💬 Связаться со мной / Contacts
 
 Открыт для предложений по автоматизации бизнес-процессов, интеграции маркетплейсов и разработки полезных утилит.
