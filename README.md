@@ -1,19 +1,21 @@
-# Привет! Я Дмитрий 🐍 | Marketplace Manager, Automation Engineer
+# Привет! Я Дмитрий 🐍 | Marketplace Manager & Automation Engineer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Marketplace_Automation-0052FF?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas_&_Data-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/py-didi?tab=repositories&q=automation" target="_blank"><img src="https://img.shields.io/badge/Marketplace_Automation-0052FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Automation" /></a>
+  <a href="https://github.com/py-didi?tab=repositories&q=telegram" target="_blank"><img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Bots" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas_&_Data-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
 </p>
 
 > **Уничтожаю рутину в E-commerce. Превращаю хаос из Excel-таблиц, кривых отчетов маркетплейсов и ручных выгрузок в изящные Python-скрипты, которые экономят часы работы и сохраняют нервы командам.**
 
 ---
 
+<a id="featured-project"></a>
+
 ## 👑 Главный проект / Featured Project: Auto Merger
 
-Если вы хоть раз пытались руками склеить несколько аналитических отчетов, выгрузок по складам или финансовых таблиц Wildberries / Ozon — вы знаете, что это сущий ад, где легко поехать кукухой. 
+Если вы хоть раз пытались руками склеить несколько аналитических отчетов, выгрузок по складам или финансовых таблиц Wildberries / Ozon — вы знаете, что это сущий ад, где легко поехать кукухой.
 
 **Auto Merger** решает эту боль раз и навсегда.
 
@@ -39,8 +41,8 @@
 ## 📈 Моя статистика на GitHub / Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=py-didi&show_icons=true&theme=radial&hide_border=true&locale=ru" alt="Dmitriy's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=py-didi&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-one-beta.vercel.app/api?username=py-didi&show_icons=true&theme=radial&hide_border=true&locale=ru&count_private=true" alt="Dmitriy's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-one-beta.vercel.app/api/top-langs/?username=py-didi&layout=compact&theme=radial&hide_border=true&count_private=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
